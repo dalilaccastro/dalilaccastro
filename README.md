@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning React Native architecture.
+- 🔭 I’m currently working on personal projects with React-Native Development.
+
+[![Dalila-Castro GitHub stats](https://github-readme-stats.vercel.app/api?username=dalilaccastro&theme=radical)](#) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalilaccastro&theme=radical&hide=jupyter%20notebook,tex,html,shell,c%23,css,ruby)](#)
+
 <!--
-**dalilaccastro/dalilaccastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dalila-Castro/Dalila-Castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![Dalila-Castro GitHub stats](https://github-readme-stats.vercel.app/api?username=dalilaccastro&theme=radical)](#) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalilaccastro&theme=radical&hide=jupyter%20notebook,tex,html,shell,c%23,css,ruby)](#) 
+---|--
+
 -->
