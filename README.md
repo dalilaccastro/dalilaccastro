@@ -42,3 +42,47 @@ Se você está procurando por uma desenvolvedora que traz **experiência**, **pe
 - **E-mail**: dalilaccastro@gmail.com  
 
 ---
+
+# Hello, I'm Dalila 👋
+
+With 14 years of experience as an **Air Traffic Controller** in the **Brazilian Air Force**, where I operated in highly complex scenarios and made critical decisions, my career took a new direction in the **Technology** field. Over the years, I have managed operational teams, been an instructor in various trainings, and developed essential skills such as **analytical ability**, **strategic thinking**, and **resilience**. These competencies are now applied to digital interface development, with the goal of creating intuitive, scalable, and high-performance user experiences.
+
+## 🚀 About Me
+Currently, I work as a **Front-End Developer**, bringing innovative and efficient technological solutions to turn challenges into opportunities. My mission is to ensure that the user experience is always seamless, impactful, and high-performing.
+
+I believe technology has the power to transform not only companies but also lives, and this motivates me to always seek the best solution for each challenge.
+## 💡 Key Skills
+
+- **Mobile Development**:  
+  - React Native (TypeScript, Hooks, Redux)  
+  - Flutter (Dart)  
+  
+- **Web Development**:  
+  - JavaScript (ES6+), React.js, Node.js, Python, Golang  
+  - HTML5, CSS3, SQL  
+  
+- **Databases**:  
+  - Firebase, MySQL  
+  
+- **Version Control**:  
+  - Git, GitHub  
+  
+- **Agile Methodologies:**:  
+  - Scrum, Kanban
+
+## 🛠️ Tools and Technologies
+
+- **Code Editor**: Visual Studio Code
+- **Development Platforms**: GitHub, GitLab  
+- **Other Tools**: Figma, Docker
+
+## 📈 My Vision for the Future
+
+I am always striving to improve and adapt to emerging technologies, which is why I am constantly learning and staying up-to-date.  I believe in the positive impact **technology** can have on society, and I am always ready to take on new challenges that allow me to grow and contribute to innovative projects.
+
+If you are looking for a developer who brings **experience**, **strategic thinking** and **resilience** to the development of technological solutions, I would be happy to chat!
+
+- **LinkedIn**: [Dalila Castro Moresco](https://www.linkedin.com/in/dalila-castro-moresco/)
+- **Email**: dalilaccastro@gmail.com
+
+- ---
