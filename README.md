@@ -1,4 +1,4 @@
-# Olá, sou [Dalila] 👋
+# Olá, sou Dalila 👋
 
 Com 14 anos de experiência como **Controladora de Tráfego Aéreo** na **Força Aérea Brasileira**, onde atuei em cenários de alto grau de complexidade e tomei decisões críticas, minha carreira tomou um novo rumo na área de **Tecnologia**. Ao longo desses anos, gerenciei equipes operacionais, fui instrutora em diversos treinamentos e desenvolvi habilidades essenciais como **capacidade analítica**, **pensamento estratégico** e **resiliência**. Essas competências agora são aplicadas ao desenvolvimento de interfaces digitais, com o objetivo de criar experiências de usuário intuitivas, escaláveis e de alto desempenho.
 
@@ -38,7 +38,7 @@ Busco sempre me aprimorar e adaptar às novas tecnologias que surgem, por isso e
 
 Se você está procurando por uma desenvolvedora que traz **experiência**, **pensamento estratégico** e **resiliência** para o desenvolvimento de soluções tecnológicas, ficarei feliz em conversar!
 
-- **LinkedIn**: [Dalila Castro Moresco]((https://www.linkedin.com/in/dalila-castro-moresco/))  
+- **LinkedIn**: [Dalila Castro Moresco](https://www.linkedin.com/in/dalila-castro-moresco/)
 - **E-mail**: dalilaccastro@gmail.com  
 
 ---
