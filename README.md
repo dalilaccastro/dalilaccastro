@@ -1,26 +1,10 @@
-### Hi there 👋
+Há quatorze anos gerencio cenários com alto grau de complexidade e tomando decisões críticas como Controladora de Tráfego Aéreo na Força Aérea Brasileira, atuando com supervisora de equipes operacionais e instrutora em diversos treinamentos, trago essa bagagem para área da tecnologia. Minha capacidade analítica, pensamento estratégico e resiliência agora impulsionam o desenvolvimento de interfaces modernas, intuitivas e de alto desempenho.
 
-- 🌱 I’m currently learning React Native architecture.
-- 🔭 I’m currently working on personal projects with React-Native Development.
+Atuo como Desenvolvedora Front-End, criando experiências digitais escaláveis e acessíveis. Minha missão é transformar desafios técnicos em soluções eficientes, garantindo que cada interação do usuário seja fluida e impactante.
 
-[![Dalila-Castro GitHub stats](https://github-readme-stats.vercel.app/api?username=dalilaccastro&theme=radical)](#) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalilaccastro&theme=radical&hide=jupyter%20notebook,tex,html,shell,c%23,css,ruby)](#)
-
-<!--
-**Dalila-Castro/Dalila-Castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-[![Dalila-Castro GitHub stats](https://github-readme-stats.vercel.app/api?username=dalilaccastro&theme=radical)](#) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalilaccastro&theme=radical&hide=jupyter%20notebook,tex,html,shell,c%23,css,ruby)](#) 
----|--
-
--->
+💡 Principais competências:
+• Desenvolvimento Mobile: React Native (TypeScript, Hooks, Redux), Flutter (Dart).
+• Desenvolvimento Web: JavaScript (ES6+), React.js, Node.js, Python, Golang, HTML5, CSS3, SQL.
+• Banco de Dados: Firebase, MySQL. 
+• Versionamento e Controle de Código: Git, GitHub.
+• Metodologias Ágeis: Scrum, Kanban.
